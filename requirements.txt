@@ -1,0 +1,11 @@
+scikit-learn
+pandas
+joblib
+requests
+geopy
+folium
+streamlit-folium
+streamlit
+fastapi
+pydantic
+uvicorn
